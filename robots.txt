@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://imi0801.github.io/chatgpt-plus-guide/sitemap.xml
+Sitemap: https://imi0801.github.io/chatgpt-plus-recharge-guide/sitemap.xml
